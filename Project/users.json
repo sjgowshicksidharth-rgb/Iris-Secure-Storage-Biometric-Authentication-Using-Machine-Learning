@@ -1,0 +1,22 @@
+{
+  "user1": {
+    "name": "Sidharth S",
+    "iris_path": "uploads\\user-1.jpg",
+    "files": [
+      [
+        "02.webp",
+        15856
+      ]
+    ]
+  },
+  "user2": {
+    "name": "Gowshick",
+    "iris_path": "uploads\\user-2.avif",
+    "files": [
+      [
+        "Gowshick_Sidharth_Resume.pdf",
+        203576
+      ]
+    ]
+  }
+}
